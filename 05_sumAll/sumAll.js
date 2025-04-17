@@ -21,6 +21,7 @@ const sumAll = function(a, b) {
 
     return total;
 };
+
 // npm test sumAll.spec.js
 
 // Do not edit below this line
